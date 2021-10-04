@@ -1,0 +1,25 @@
+body
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.container
+{
+    text-align: center;
+}
+h1
+{
+    margin:0 auto;
+    border-radius: 50%;
+    background: orange;
+}
+/* button{
+    margin-top: 20px;
+
+}
+button.start
+{
+    margin-left: ;
+} */
